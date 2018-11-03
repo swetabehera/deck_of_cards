@@ -1,5 +1,5 @@
-# deckofcards
+# DECK OF CARDS
 
-It's a part of OOP concept in Python.
+It utilises OOP concept in Python.
 
 Just practicing it.
